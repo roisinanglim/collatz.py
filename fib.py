@@ -1,3 +1,6 @@
+# Roisin Anglim
+# A program that displays Fibonacci numbers.
+
 def fib(n):
   """This function returns the nth Fibonacci number."""
   i = 0
@@ -10,15 +13,7 @@ def fib(n):
   
   return i
 
-name = "Anglim"
-first = name[0]
-last = name[-1]
-firstno = ord(first)
-lastno = ord(last)
-x = firstno + lastno
-
-ans = fib(x)
-print("My surname is", name)
-print("The first letter", first, "is number", firstno)
-print("The last letter", last, "is number", lastno)
-print("Fibonacci number", x, "is", ans)
+# Test the function with the following value.
+RN = 32
+ans = fib(RN)
+print("Fibonacci number", RN, "is", ans)
