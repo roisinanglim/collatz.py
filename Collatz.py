@@ -8,6 +8,6 @@ while i != 1:
          i= i/2
          print(int(i))   
 #When I uneven number      
-   elif i %2 ==1:
-        i= i*3+1
-        print(int(i))
+     elif i %2 ==1:
+         i= i*3+1
+         print(int(i))
