@@ -4,7 +4,7 @@
 # Requests user to enter an interger
 i = int(input("input integer ")) 
 print(i) 
-#Do this when i is not equal to one
+#Do the following when i is not equal to one
 while i != 1: 
 #When i even number
      if i %2 ==0: 
