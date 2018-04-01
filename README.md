@@ -19,4 +19,4 @@ This is an unsolved matamatical problem. It starts with a positive integer and a
 
 
 ## References  
-1. ![Collatz Conjecture Wiki](https://en.wikipedia.org/wiki/Collatz_conjecture)
+1. !Collatz Conjecture Wiki(https://en.wikipedia.org/wiki/Collatz_conjecture)
