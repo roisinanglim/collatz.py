@@ -10,3 +10,13 @@ This is an unsolved matamatical problem. It starts with a positive integer and a
 
 * If you have an *even number divide by 2* .
 * If you have an *uneven number multiply by 3* and *add 1*.
+
+
+
+
+
+
+
+
+## References  
+1. ![Collatz Conjecture Wiki](https://en.wikipedia.org/wiki/Collatz_conjecture)
