@@ -1,4 +1,4 @@
 # Collatz
 
 ## About Collatz 
-![Collatz]()
+![Collatz](Lothar_Collatz.jpg)
